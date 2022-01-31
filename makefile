@@ -9,7 +9,7 @@ clean: ; rm -f *.pd_linux *.o
 
 VC="C:\Program FIles (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023"
 
-pd_nt: thingbob.dll
+pd_nt: hw1.dll
 
 .SUFFIXES: .obj .dll
 
